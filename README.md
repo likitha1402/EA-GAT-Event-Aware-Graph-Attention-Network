@@ -1,1 +1,1 @@
-# EA-GAT-Event-Aware-Graph-Attention-Network
+# EA-GAT: Event-Aware-Graph-Attention-Network
